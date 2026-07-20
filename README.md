@@ -44,7 +44,7 @@
 npx skills add CzzzzzzJ/mdldm-monetize --skill mdldm-monetize
 ```
 
-Skill 页面：<https://skills.sh/CzzzzzzJ/mdldm-monetize>
+Skill 页面：<https://skills.sh/czzzzzzj/mdldm-monetize/mdldm-monetize>
 
 ## 手动安装
 
