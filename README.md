@@ -1,8 +1,17 @@
+> ⚠️ **已迁至合集仓**：[CzzzzzzJ/mdldm-skills](https://github.com/CzzzzzzJ/mdldm-skills)（`skills/mdldm-monetize`）
+>
+> 推荐安装：
+> ```bash
+> npx skills add CzzzzzzJ/mdldm-skills --skill mdldm-monetize
+> ```
+> 或一次安装全部：`npx skills add CzzzzzzJ/mdldm-skills --all`
+>
+> 本仓仍保留约 90 天兼容；新项目请改用合集仓路径。
 # MDLDM Monetize
 
 > Turn content into a validated knowledge business.
 
-[![skills.sh](https://skills.sh/b/CzzzzzzJ/mdldm-monetize)](https://skills.sh/CzzzzzzJ/mdldm-monetize)
+[![skills.sh](https://skills.sh/b/CzzzzzzJ/mdldm-skills)](https://skills.sh/CzzzzzzJ/mdldm-skills)
 
 `MDLDM Monetize` 是麦当 mdldm 面向已有内容创作者设计的知识变现诊断与行动 Skill。
 
@@ -41,10 +50,10 @@
 ## 通过 skills.sh 安装
 
 ```bash
-npx skills add CzzzzzzJ/mdldm-monetize --skill mdldm-monetize
+npx skills add CzzzzzzJ/mdldm-skills --skill mdldm-monetize
 ```
 
-Skill 页面：<https://skills.sh/czzzzzzj/mdldm-monetize/mdldm-monetize>
+Skill 页面：<https://skills.sh/czzzzzzj/mdldm-skills/mdldm-monetize>
 
 ## 手动安装
 
